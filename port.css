@@ -1,0 +1,103 @@
+hr{
+    border-style:none;
+    border-color: white;
+    border-top-style: dotted;
+    border-width: 5px;
+    width:5%;
+}
+a:link, a:visited  { 
+    color:007580;
+    text-decoration: none;
+    cursor: -moz-grab;
+  }
+  
+  a:link:active, a:visited:active ,a:hover{ 
+    color:282846 ;
+  }
+  .one {
+      background-color: fed049;
+  }
+  .two {
+      background-color: 007580;
+      padding-top: 5%;
+  }
+  .three {
+      background-color: 282846;
+      padding-top: 2.5%;
+  }
+  .four {
+      background-color: 1b1717;
+  }
+  body{
+    margin:0;
+    text-align: center;
+    background-color: 1b1717;
+  }
+  .pro{
+     color: WHITE;
+  }
+  h4{
+      color: white;
+  }
+  .star:hover{
+      background-color:black;
+      cursor: -moz-grab;
+      height: 20px;
+      border-radius: 50%;
+  }
+  .text{
+      color: white;
+      font-size: large;
+  }
+  .prog{
+      width: 75%;
+      align-content: center;
+      border: 2px solid white;
+      text-align: center;
+  }
+  .sub,td{
+    height: 50px;
+  }
+  .pos{
+      padding-left: 20%;
+      padding-bottom: 5%;
+  }
+  .lin:hover{
+      background-color: black;
+      border-radius: 50%;
+  }
+  .btn {
+    background: #3d464d;
+    background-image: -webkit-linear-gradient(top, #3d464d, #6d777d);
+    background-image: -moz-linear-gradient(top, #3d464d, #6d777d);
+    background-image: -ms-linear-gradient(top, #3d464d, #6d777d);
+    background-image: -o-linear-gradient(top, #3d464d, #6d777d);
+    background-image: linear-gradient(to bottom, #3d464d, #6d777d);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  .nav li{
+    display:inline
+}
+.nav a{
+    display:inline-block;
+    padding: 1%;
+    color:fed049;
+    text-decoration: none;
+    background-color:  007580;
+}
+.nav a:hover{
+    background-color:rgb(15, 56, 53);
+}
+.main-nav li{
+    padding:5%;
+}
+
+  
+  
